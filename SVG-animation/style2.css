@@ -1,0 +1,14 @@
+.header {
+    height: 60vh;
+}
+
+.path {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 3px;
+}
+
+.footer {
+    height: 30vh;
+    background-color: #000;
+}
